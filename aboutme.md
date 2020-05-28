@@ -13,7 +13,7 @@ Here is a brief version my [curriculum](https://nbviewer.jupyter.org/github/Albe
 I've decided to collect in this pages all the projects I haveve followed and all my interests.
 
 
-### College 
+## College 
 I've live in Collegio Paolo VI for 6th year.
 I am involved in activities and I led some speaks:
 [Sidamo](http://nbviewer.jupyter.org/github/Alberto1Artoni/Alberto1Artoni.github.io/blob/master/SidamoTalk.pdf)
