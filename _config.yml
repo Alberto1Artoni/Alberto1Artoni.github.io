@@ -16,7 +16,7 @@ navbar-links:
   Main Projects: 
      - PolyDG thesis: "https://github.com/Alberto1Artoni/Alberto1Artoni.github.io/releases/tag/final"
      - FSI project: "https://github.com/Alberto1Artoni/Alberto1Artoni.github.io/releases/tag/final"
-     - CMEB project: "https://nbviewer.jupyter.org/github/Alberto1Artoni/Alberto1Artoni.github.io/blob/master/KMCPDEs.pdf"
+     - CMEB project: "projects/CMEB"
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
   #  - Learn markdown: "https://www.markdowntutorial.com/"
