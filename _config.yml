@@ -13,10 +13,14 @@ author: Alberto Artoni
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Main Projects: 
+     - PolyDG thesis: "https://github.com/Alberto1Artoni/Alberto1Artoni.github.io/releases/tag/final"
+     - FSI project: "https://github.com/Alberto1Artoni/Alberto1Artoni.github.io/releases/tag/final"
+     - CMEB project: "https://nbviewer.jupyter.org/github/Alberto1Artoni/Alberto1Artoni.github.io/blob/master/KMCPDEs.pdf"
+  #Resources:
+  #  - Beautiful Jekyll: "https://beautifuljekyll.com"
+  #  - Learn markdown: "https://www.markdowntutorial.com/"
+  #Author's home: "https://deanattali.com"
 
 # --- Logo --- #
 
