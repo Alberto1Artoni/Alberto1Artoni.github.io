@@ -13,12 +13,13 @@ author: Alberto Artoni
 
 navbar-links:
   About Me: "AboutMe"
-  Main Projects: 
+  School Projects: 
      - PolyDG thesis: "projects/Thesis/"
      - APSC project: "projects/APSC/"
      - CMEB project: "projects/CMEB/"
-  SIAM: "Siam"
-  External Collaboration: "Messori"
+     - SIAM: "Siam"
+  Other Collarboration: 
+     - Messori's Thesis: "Messori"
   
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
