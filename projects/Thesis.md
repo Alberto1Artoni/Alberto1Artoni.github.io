@@ -5,7 +5,8 @@ title: Master Thesis
 
 Here's the project I've followed during my [Master Thesis](https://alberto1artoni.github.io/assets/pdf/Tesi/TesiStile.pdf).
 
-The thesis is quite technical: the main challages were to develop the proper data structures in order to let the solver be able to handle the generic polyhedral mesh. In order to be able to I've developed interest in computational geometry (for handling the mesh) and in the Discontinuous Galerkin method (both from and implementation point of view and from an analytical point of view).
+The thesis is quite technical: the main challages were to develop the proper data structures to make the solver able to handle the generic polyhedral mesh. 
+During the thesis I've developed interest in computational geometry (for handling the mesh) and in the Discontinuous Galerkin method (both from and implementation point of view and from an analytical point of view).
 
 
 ## PolyDG
@@ -19,7 +20,7 @@ on arbitrary grids. A vast set of numerical tests validated the theoretical
 results and showed the performances of the developed libraries.
 
 <p align="center">
-  <img width="250" height="250" src="https://alberto1artoni.github.io/assets/pdf/Tesi/Immagini/Dominio.png">
+  <img width="250" height="225" src="https://alberto1artoni.github.io/assets/pdf/Tesi/Immagini/Dominio.png">
 </p>
 
 ### Matlab Library
@@ -46,4 +47,4 @@ Exploits a quadrature free method: for the moment it is able to deal only with p
 </p>
 
 
-###### Currently the software is private.
+##### Currently the software is private.
