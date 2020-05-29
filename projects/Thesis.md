@@ -16,7 +16,7 @@ on arbitrary grids. A vast set of numerical tests validated the theoretical
 results and showed the performances of the developed libraries.
 
 <p align="center">
-  <img width="300" height="300" src="https://alberto1artoni.github.io/assets/pdf/Tesi/Immagini/Dominio.png">
+  <img width="250" height="250" src="https://alberto1artoni.github.io/assets/pdf/Tesi/Immagini/Dominio.png">
 </p>
 
 ### Matlab Library
@@ -24,13 +24,13 @@ results and showed the performances of the developed libraries.
 The Matlab library exploits sub-tessellation techniques.
 
 <p align="center">
-  <img width="700" height="800" src="https://alberto1artoni.github.io/assets/pdf/Tesi/Immagini/SottoTassellazione.png">
+  <img width="525" height="600" src="https://alberto1artoni.github.io/assets/pdf/Tesi/Immagini/SottoTassellazione.png">
 </p>
 
 The library is able to solve the Poisson problem on polyhedral meshes.
 
 <p align="center">
-  <img width="800" height="500" src="https://alberto1artoni.github.io/assets/pdf/Tesi/Immagini/MatlabCut.png">
+  <img width="600" height="350" src="https://alberto1artoni.github.io/assets/pdf/Tesi/Immagini/MatlabCut.png">
 </p>
 
 
@@ -39,7 +39,7 @@ The library is able to solve the Poisson problem on polyhedral meshes.
 Exploits a quadrature free method: for the moment it is able to deal only with polynomial doundary data and source. More research is on going, but the preliminares are promising.
 
 <p align="center">
-  <img width="800" height="500" src="https://alberto1artoni.github.io/assets/pdf/Tesi/Immagini/XYZ.png">
+  <img width="600" height="375" src="https://alberto1artoni.github.io/assets/pdf/Tesi/Immagini/XYZ.png">
 </p>
 
 
