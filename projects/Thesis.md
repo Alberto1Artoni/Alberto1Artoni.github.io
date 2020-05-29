@@ -21,7 +21,7 @@ Fortran, that implements the PolyDG methods in three dimensions and
 on arbitrary grids. A vast set of numerical tests validates the theoretical 
 results and shows the performances of the developed libraries.
 
-![](https://alberto1artoni.github.io/assets/pdf/Tesi/Immagini/Dominio.pdf)
+![](https://alberto1artoni.github.io/assets/pdf/Tesi/Immagini/Dominio.png)
 
 ### Matlab Library
 
