@@ -1,3 +1,5 @@
+Here's the project I've followed during my Master Thesis.
+
 ## PolyDG
 
 The purpose of this work is to develop a 3D library able to solve the
