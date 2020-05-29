@@ -5,6 +5,9 @@ title: Master Thesis
 
 Here's the project I've followed during my [Master Thesis](https://alberto1artoni.github.io/assets/pdf/Tesi/TesiStile.pdf).
 
+The thesis is quite technical: the main challages were to develop the proper data structures in order to let the solver be able to handle the generic polyhedral mesh. In order to be able to I've developed interest in computational geometry (for handling the mesh) and in the Discontinuous Galerkin method (both from and implementation point of view and from an analytical point of view).
+
+
 ## PolyDG
 
 In my thesis I developed a 3D library able to solve the
@@ -30,7 +33,7 @@ The Matlab library exploits sub-tessellation techniques.
 The library is able to solve the Poisson problem on polyhedral meshes.
 
 <p align="center">
-  <img width="600" height="350" src="https://alberto1artoni.github.io/assets/pdf/Tesi/Immagini/MatlabCut.png">
+  <img width="500" height="275" src="https://alberto1artoni.github.io/assets/pdf/Tesi/Immagini/MatlabCut.png">
 </p>
 
 
@@ -39,7 +42,7 @@ The library is able to solve the Poisson problem on polyhedral meshes.
 Exploits a quadrature free method: for the moment it is able to deal only with polynomial doundary data and source. More research is on going, but the preliminares are promising.
 
 <p align="center">
-  <img width="600" height="375" src="https://alberto1artoni.github.io/assets/pdf/Tesi/Immagini/XYZ.png">
+  <img width="500" height="300" src="https://alberto1artoni.github.io/assets/pdf/Tesi/Immagini/XYZ.png">
 </p>
 
 
