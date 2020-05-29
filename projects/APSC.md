@@ -1,3 +1,8 @@
+---
+title: APSC
+format: page
+---
+
 ### Advanced Programming for scientific computing
 
 The course
