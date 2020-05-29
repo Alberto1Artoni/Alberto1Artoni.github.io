@@ -29,7 +29,7 @@ results and shows the performances of the developed libraries.
 Exploits sub-tessellation techniques. 
 
 <p align="center">
-  <img width="600" height="800" src="https://alberto1artoni.github.io/assets/pdf/Tesi/Immagini/SottoTassellazione.png">
+  <img width="700" height="800" src="https://alberto1artoni.github.io/assets/pdf/Tesi/Immagini/SottoTassellazione.png">
 </p>
 ### Fortran Library
 
