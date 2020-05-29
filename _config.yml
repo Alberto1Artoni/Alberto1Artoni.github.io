@@ -1,7 +1,7 @@
 # --- Basic options --- #
 
 # Name of website
-title: Alberto Artoni's Personal Website
+title: Home
 
 # Short description of your site
 description: A website collecting all my personal projects
@@ -18,9 +18,9 @@ navbar-links:
      - APSC project: "projects/APSC/"
      - CMEB project: "projects/CMEB/"
      - SIAM: "SIAM"
-  Other Collarborations: 
+  External: 
      - Messori's Thesis: "Messori"
-  Choir: "Coro"
+     - Choir: "Coro"
   
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
