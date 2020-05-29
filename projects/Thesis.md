@@ -1,3 +1,9 @@
+---
+format: page
+title: Master Thesis
+---
+
+
 Here's the project I've followed during my Master Thesis.
 
 ## PolyDG
