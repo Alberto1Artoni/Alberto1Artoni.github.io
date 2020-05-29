@@ -5,7 +5,7 @@ title: Master Thesis
 
 
 Here's the project I've followed during my Master Thesis. 
-<a href="assets/pdf/Tesi/TesiStile.pdf" class="image fit"><hi></a>
+[hi][https://raw.githubusercontent.com/Alberto1Artoni/Alberto1Artoni.github.io/master/assets/pdf/Tesi/TesiStile.pdf]
 
 ## PolyDG
 
