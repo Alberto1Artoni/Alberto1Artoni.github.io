@@ -8,7 +8,7 @@ I am a  Mathematical Engineering, graduated at Politecnico di Milano: I studied 
 
 My mainly interests are Finite Element Methods (FEM), fluids (CFD) and Machine Learning (ML).
 
-Here is a brief version my [curriculum](https://nbviewer.jupyter.org/github/Alberto1Artoni/Alberto1Artoni.github.io/blob/master/CV___Curriculum.pdf).
+Here is a brief version my [curriculum](https://alberto1github.io/assets/pdf/Curriculum.pdf).
 
 I've decided to collect in this pages all the projects I haveve followed and all my interests.
 
