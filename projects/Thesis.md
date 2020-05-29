@@ -4,7 +4,7 @@ title: Master Thesis
 ---
 
 
-Here's the project I've followed during my [Master Thesis](https://raw.githubusercontent.com/Alberto1Artoni/Alberto1Artoni.github.io/master/assets/pdf/Tesi/TesiStile.pdf)
+Here's the project I've followed during my [Master Thesis.](https://raw.githubusercontent.com/Alberto1Artoni/Alberto1Artoni.github.io/master/assets/pdf/Tesi/TesiStile.pdf)
 
 ## PolyDG
 
