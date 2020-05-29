@@ -26,10 +26,13 @@ results and shows the performances of the developed libraries.
 
 ### Matlab Library
 
-Exploits sub-tessellation techniques.
+Exploits sub-tessellation techniques. 
 
+<p align="center">
+  <img width="600" height="800" src="https://alberto1artoni.github.io/assets/pdf/Tesi/Immagini/SottoTassellazione.png">
+</p>
 ### Fortran Library
 
-Exploits the quadrature free method.
+Exploits a quadrature free method: for the moment it is able to deal only with polynomial doundary data and source. More research is on going, but the preliminares are promising.
 
-###### Currently the software is private.
+####### Currently the software is private.
