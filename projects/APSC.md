@@ -32,7 +32,7 @@ The images shows the evolution of the valve, without contact.
 
 ### Contact example
 
-We tested a falling ball in a fluid.
+We tested a ball (with linear elastic constitutive law) falling in an ideal fluid. As you can see, the ball stops on the structure below: no change of topology happens, as expected.
 
 ![](https://alberto1artoni.github.io/assets/pdf/FSI/gif/Ball.gif)
 
@@ -41,3 +41,5 @@ We tested a falling ball in a fluid.
 [1] P. F. Antonietti, M. Verani, C. Vergara, and S. Zonca. Numerical solution of fluid-
 structure interaction problems by means of a high order discontinuous galerkin method
 on polygonal grids. 2018
+
+###### Images shown are GIFs - with no loop. Some browser-related issues are known: please open the page with Chrome.
