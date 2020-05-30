@@ -1,6 +1,6 @@
 ---
 format: page
-title: PDE-KMC
+title: CMEB
 ---
 
 ### Computational Modeling in Electronics and Biomathematics (CMEB)
