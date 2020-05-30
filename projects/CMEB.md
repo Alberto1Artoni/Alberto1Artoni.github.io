@@ -20,8 +20,7 @@ Finally, several configurations have been explored.
 The imposed electric field (computed with the Poisson equation) moves the particles. The temperature (computed via heat equation) makes the particle vibrate.
 
 :-------------------------:|:-------------------------:
-![](https://alberto1artoni.github.io/assets/pdf/CMEB/coupled.gif)  |  ![](https://alberto1artoni.github.io/assets/pdf/CMEB/poissonCoup.png)
-       |  ![](https://alberto1artoni.github.io/assets/pdf/CMEB/thermalCoupl.png)
+![](https://alberto1artoni.github.io/assets/pdf/CMEB/coupled.gif)  |  ![](https://alberto1artoni.github.io/assets/pdf/CMEB/poissonCoup.png) ![](https://alberto1artoni.github.io/assets/pdf/CMEB/thermalCoupl.png)
 
 ## Further developments
 
