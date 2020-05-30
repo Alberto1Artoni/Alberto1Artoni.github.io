@@ -3,9 +3,11 @@ format: page
 title: PDE-KMC
 ---
 
-### Computational
+### Computational Modeling in Electronics and Biomathematics (CMEB)
 
-The course is about
+The course is a numerical course that features the main modelling sources of non linearities and explains how to deal with them from a numerical point of view. The main applicative areas considered are electronics and biomathematics: huge comparisons are made, and surprisingly share lot of modelling techniques.
+
+A project integrates the theoretical written exam. In this project I integrated my knowledge connected to the mechanical-statistical field with the PDE world. 
 
 ## Coupling a PDE Problems with the Kinetic Monte-Carlo
 
@@ -22,7 +24,8 @@ On the right the Poisson's problem solution: as you can see there are areas in w
 Also, on the right we solve the thermal equation: solution is linear, having lower temperatures on the top and higher on the bottom. Particles moves accordingly.
 
 :-------------------------:|:-------------------------:
-  <img width="250" height="225" src="https://alberto1artoni.github.io/assets/pdf/CMEB/coupled.gif"> |   <img width="120" height="100" src="https://alberto1artoni.github.io/assets/pdf/CMEB/poissonCoup.png">   <img width="120" height="100" src="https://alberto1artoni.github.io/assets/pdf/CMEB/thermalCoupl.png">
+<p align="center">  <img width="300" height="300" src="https://alberto1artoni.github.io/assets/pdf/CMEB/coupled.gif"> </p> |  
+ <p align="center"><img width="150" height="150" src="https://alberto1artoni.github.io/assets/pdf/CMEB/poissonCoup.png">   <img width="150" height="150" src="https://alberto1artoni.github.io/assets/pdf/CMEB/thermalCoupl.png"> </p>
 
 ## Further developments
 
