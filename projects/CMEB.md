@@ -14,8 +14,7 @@ A [project](https://alberto1artoni.github.io/assets/pdf/CMEB/KMCPDEs.pdf) integr
 I've interfaced in the FEMOS 3D library both a Poisson and a thermal coupling with the Kinetic MonteCarlo approach.
 
 Here is the structure of the proposed algorithm:
-<p align="center">  <img width="400" height="600" src="https://alberto1artoni.github.io/assets/pdf/CMEB/SchemaSolutore.png"> </p> 
-![]()
+<p align="center">  <img width="400" height="550" src="https://alberto1artoni.github.io/assets/pdf/CMEB/SchemaSolutore2.png"> </p> 
 
 ## Results
 
