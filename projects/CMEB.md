@@ -7,14 +7,14 @@ title: PDE-KMC
 
 The course is a numerical course that features the main modelling sources of non linearities and explains how to deal with them from a numerical point of view. The main applicative areas considered are electronics and biomathematics: huge comparisons are made, and surprisingly share lot of modelling techniques.
 
-A project integrates the theoretical written exam. In this project I integrated my knowledge connected to the mechanical-statistical field with the PDE world. 
+A [project](https://alberto1artoni.github.io/assets/pdf/CMEB/KMCPDEs.pdf) integrates the theoretical written exam. In this project I integrated my knowledge connected to the mechanical-statistical field with the PDE world. 
 
 ## Coupling a PDE Problems with the Kinetic Monte-Carlo
 
 I've interfaced in the FEMOS 3D library both a Poisson and a thermal coupling with the Kinetic MonteCarlo approach.
 
 Here is the structure of the proposed algorithm:
-![]()
+![](https://alberto1artoni.github.io/assets/pdf/CMEB/SchemaSolutore.png)
 
 ## Results
 
