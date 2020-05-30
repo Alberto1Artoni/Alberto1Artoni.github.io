@@ -24,13 +24,20 @@ of the contact search algorithm and finally we try to solve some problems.
 
 ### Two structures with no contact
 
-We show the results where no contact is taken into account, verifying step one. 
-Attento, mi immagino che non funzioni.
+A linear elastic law is imposed on the structures. On the top and bottom boundary Neumann boundary conditions are taken into account. On the left and right boundary null Dirichlet conditions are imposed. Both the structures are pintched towards the center and then released.
+The images shows the evolution of the valve, without contact.
+
 ![](https://alberto1artoni.github.io/assets/pdf/FSI/gif/Valve.gif)
 
 
 ### Contact example
 
-We show the results for some test cases where contact is enforced.
+We tested a falling ball in a fluid.
+
+![](https://alberto1artoni.github.io/assets/pdf/FSI/gif/Ball.gif)
 
 
+
+[1] P. F. Antonietti, M. Verani, C. Vergara, and S. Zonca. Numerical solution of fluid-
+structure interaction problems by means of a high order discontinuous galerkin method
+on polygonal grids. 2018
