@@ -3,7 +3,7 @@ title: APSC
 format: page
 ---
 
-### Advanced Programming for scientific computing
+### Advanced Programming for Scientific Computing (APSC)
 
 The course introduces to the scientific C++ standards. The final examination consists in a project carried out with the Math department professors.
 
