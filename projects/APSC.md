@@ -10,7 +10,7 @@ The course introduces to the scientific C++ standards. The final examination con
 Me and Elisabetta Chimisso carried out a project on fluid structure iteration (FSI) with contact. The main tasks were to add a second structure in an already well structured code and to take into account the contact. Contact was enforced with a penalization technique.
 For me this project have been crucial in the years of the master degree: finally I've applied all my studies to something quite practical. I think this is the project I've enjoyed the most.
 
-For the project we have made a [final report](https://alberto1artoni.github.io/assets/pdf/FSI/ArtoniChimisso_ContactProblemForCardiacValveMechanics.pdf), a presentation for the [programming part](https://alberto1artoni.github.io/assets/pdf/FSI/ArtoniChimissoPACS.pdf).
+For the project we have made a [final report](https://alberto1artoni.github.io/assets/pdf/FSI/ArtoniChimisso_ContactProblemForCardiacValveMechanics.pdf), a presentation for the [programming part](https://alberto1artoni.github.io/assets/pdf/FSI/ArtoniChimissoPACS.pdf) and a presentation for the [numerical part]().
 
 ## Fluid Structure iteraction with applications to cardiac valves
 
