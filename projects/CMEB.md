@@ -18,6 +18,8 @@ Finally, several configurations have been explored.
 ## Results
 
 The imposed electric field (computed with the Poisson equation) moves the particles. The temperature (computed via heat equation) makes the particle vibrate.
+On the right the Poisson's problem solution: as you can see there are areas in which the electric field is higher. This is due to the net unbalance of the charge.
+Also, on the right we solve the thermal equation: solution is linear, having lower temperatures on the top and higher on the bottom. Particles moves accordingly.
 
 :-------------------------:|:-------------------------:
 ![](https://alberto1artoni.github.io/assets/pdf/CMEB/coupled.gif)  |  ![](https://alberto1artoni.github.io/assets/pdf/CMEB/poissonCoup.png) ![](https://alberto1artoni.github.io/assets/pdf/CMEB/thermalCoupl.png)
