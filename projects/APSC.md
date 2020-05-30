@@ -25,6 +25,9 @@ of the contact search algorithm and finally we try to solve some problems.
 ### Two structures with no contact
 
 We show the results where no contact is taken into account, verifying step one. 
+Attento, mi immagino che non funzioni.
+![](https://alberto1artoni.github.io/assets/pdf/FSI/gif/Valve.gif)
+
 
 ### Contact example
 
