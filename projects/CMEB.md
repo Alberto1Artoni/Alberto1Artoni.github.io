@@ -23,8 +23,8 @@ On the right the Poisson's problem solution: as you can see there are areas in w
 Also, on the right we solve the thermal equation: solution is linear, having lower temperatures on the top and higher on the bottom. Particles moves accordingly.
 
 <p align="center">  <img width="400" height="400" src="https://alberto1artoni.github.io/assets/pdf/CMEB/coupled.gif"> </p> 
- <p align="center"><img width="200" height="225" src="https://alberto1artoni.github.io/assets/pdf/CMEB/poissonCoup.png">   
-<img width="200" height="225" src="https://alberto1artoni.github.io/assets/pdf/CMEB/thermalCoupl.png"> </p>
+ <p align="center"><img width="250" height="275" src="https://alberto1artoni.github.io/assets/pdf/CMEB/poissonCoup.png">   
+<img width="250" height="275" src="https://alberto1artoni.github.io/assets/pdf/CMEB/thermalCoupl.png"> </p>
 
 ## Further developments
 
