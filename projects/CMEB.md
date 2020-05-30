@@ -13,9 +13,8 @@ A project integrates the theoretical written exam. In this project I integrated 
 
 I've interfaced in the FEMOS 3D library both a Poisson and a thermal coupling with the Kinetic MonteCarlo approach.
 
-Qui metto l'immagine in tikz di che succede
-
-Finally, several configurations have been explored.
+Here is the structure of the proposed algorithm:
+![]()
 
 ## Results
 
@@ -24,8 +23,9 @@ On the right the Poisson's problem solution: as you can see there are areas in w
 Also, on the right we solve the thermal equation: solution is linear, having lower temperatures on the top and higher on the bottom. Particles moves accordingly.
 
 :-------------------------:|:-------------------------:
-<p align="center">  <img width="300" height="300" src="https://alberto1artoni.github.io/assets/pdf/CMEB/coupled.gif"> </p> |  
- <p align="center"><img width="150" height="150" src="https://alberto1artoni.github.io/assets/pdf/CMEB/poissonCoup.png">   <img width="150" height="150" src="https://alberto1artoni.github.io/assets/pdf/CMEB/thermalCoupl.png"> </p>
+|<p align="center">  <img width="300" height="300" src="https://alberto1artoni.github.io/assets/pdf/CMEB/coupled.gif"> </p> |  
+ <p align="center"><img width="200" height="225" src="https://alberto1artoni.github.io/assets/pdf/CMEB/poissonCoup.png">   
+<img width="200" height="225" src="https://alberto1artoni.github.io/assets/pdf/CMEB/thermalCoupl.png"> </p>|
 
 ## Further developments
 
