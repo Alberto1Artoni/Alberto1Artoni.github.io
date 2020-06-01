@@ -35,7 +35,7 @@ From the paper we have:
 
 For T=10 the results are qualitatevly the same.
 
-[1]  ̈Jorg, Valleriani and Reinhard, Sequences of phase transitions in ising models on correlated networks.
+[1] Jorg, Valleriani and Reinhard, Sequences of phase transitions in ising models on correlated networks.
 
 
 <p> <span style="color:grey"> Images shown are GIFs - with no loop.
