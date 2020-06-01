@@ -13,9 +13,9 @@ The code has been implemented using Mathematica and mainly the related library i
 Ising Model basics and history.
 Explain the model:
 
-
-![](https://alberto1artoni.github.io/assets/pdf/Ising/IsingMag.gif)| ![](https://alberto1artoni.github.io/assets/pdf/Ising/IsingNoMag.gif)
-<p align="center"> T &lt; T<sub>c</sub> | <p align="center"> T &gt; T<sub>c</sub> </p>
+|:-------------:|:-------------:|
+|![](https://alberto1artoni.github.io/assets/pdf/Ising/IsingMag.gif)| ![](https://alberto1artoni.github.io/assets/pdf/Ising/IsingNoMag.gif)|
+| T &lt; T<sub>c</sub> | T &gt; T<sub>c</sub> |
 
 In the left we have magnetization: the lattix change all his colors. In the right, due to high temperature, we don't have magnetization.
 The Ising model was firtly proposed for 1D lattix; it has then been extended to 2D results. It is generally unclear what happens (theoretically) on different topologies. The paper aims to propose some "experimental" (simulation) results.
@@ -25,10 +25,10 @@ The Ising model was firtly proposed for 1D lattix; it has then been extended to 
 Fully uncorrelated networks have community. We reach local "magnetization" in each comunity. Increasing the temperature we see that the stronger community are still magnetize, while the weaker show no magnetization.
 
 Visual example for T=10.
-<p align="center">  <img width="600" height="400" src="https://alberto1artoni.github.io/assets/pdf/Ising/IsingUncT10.gif"> </p> 
+<p align="center">  <img width="600" height="200" src="https://alberto1artoni.github.io/assets/pdf/Ising/IsingUncT10.gif"> </p> 
 
 State after a large number of iteration, varying the temperature:
-<p align="center"> ![](https://alberto1artoni.github.io/assets/pdf/Ising/NonZeroTemp.png) </p>
+<p align="center"> <img width="400" heigh="500" src="https://alberto1artoni.github.io/assets/pdf/Ising/NonZeroTemp.png"> </p>
 
 [1]  ̈Jorg, Valleriani and Reinhard, Sequences of phase transitions in ising models on correlated networks.
 
