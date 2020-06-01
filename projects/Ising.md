@@ -5,13 +5,20 @@ title: Ising Model
 
 ### Dinamica dei sistemi complessi
 
+Dinamica dei sistemi complessi is a nice introductive course about networks. It covers the main statistics and the main properties of the network, with some attention to dynamics (for instace it treats the SIR model).
+Course evaluation can be integrated with a project.
 
-The [project](https://alberto1artoni.github.io/assets/pdf/Ising/ArtoniAlbertoRConIsing.pdf) was basically to obtain all the results presented in paper [1].
+The [project](https://alberto1artoni.github.io/assets/pdf/Ising/ArtoniAlbertoRConIsing.pdf) I've choose was basically to obtain all the results presented in paper [1].
 The code has been implemented using Mathematica and mainly the related library iGraph. The project has been discussed on 12/04/2019.
 
 ## Ising Model
-Ising Model basics and history.
-Explain the model:
+First, let us introduce the Ising Model. 
+The Ising model can be seen as a formal system with some specific update rules. 
+
+- consider an adjacency matrix **A**.
+- consider a proper $\mathcal{H}$ (energy) functional
+- update with a probability ~ *P*(H)
+- loop several times
 
 |:--------------------:|:--------------------:|
 |![](https://alberto1artoni.github.io/assets/pdf/Ising/IsingMag.gif)| ![](https://alberto1artoni.github.io/assets/pdf/Ising/IsingNoMag.gif)|
@@ -31,6 +38,7 @@ Evolution of the dynamics:
 <p align="center"> <img width="400" height="500" src="https://alberto1artoni.github.io/assets/pdf/Ising/NonZeroTemp.png"> </p>
 
 From the paper we have:
+
 ![](https://alberto1artoni.github.io/assets/pdf/Ising/Corr.png)
 
 For T=10 the results are qualitatevly the same.
