@@ -30,7 +30,9 @@ Visual example for T=10.
 State after a large number of iteration, varying the temperature:
 <p align="center"> ![](https://alberto1artoni.github.io/assets/pdf/Ising/NonZeroTemp.png) </p>
 
-[1]  ̈Jorg, Valleriani and Reinhard, Sequences of phase transitions in ising models on correlatedi networks.
+[1]  ̈Jorg, Valleriani and Reinhard, Sequences of phase transitions in ising models on correlated networks.
+
+
 <p> <span style="color:grey"> Images shown are GIFs - with no loop.
  Some browser-related issues are known: please open the page with Chrome </span></p>
 
