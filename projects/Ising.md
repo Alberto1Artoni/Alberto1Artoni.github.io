@@ -15,7 +15,7 @@ Explain the model:
 
 
 ![]()| ![]()
- T &lt; T<\sub>c<sub> | T &gt; T<\sub>c<sub>
+ T &lt; T<sub>c</sub> | T &gt; T<sub>c</sub>
 
 In the left we have magnetization: the lattix change all his colors. In the right, due to high temperature, we don't have magnetization.
 The Ising model was firtly proposed for 1D lattix; it has then been extended to 2D results. It is generally unclear what happens (theoretically) on different topologies. The paper aims to propose some "experimental" (simulation) results.
