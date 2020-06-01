@@ -81,10 +81,10 @@ social-network-links:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "alberto1artoni.github.io"
 
 # Create a "tags" index page and make tags on each post clickable
-link-tags: true
+#link-tags: true
 
 # Excerpt Word Length - Truncates the excerpt to the specified number of words on the index page
 excerpt_length: 50
@@ -100,7 +100,7 @@ page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#F5F5F5"
-footer-text-col: "#66CCFF"
+footer-text-col: "#0000ff"
 footer-link-col: "#404040"
 
 # Alternatively, the navbar, footer, and page background can be set to use background images
