@@ -45,4 +45,5 @@ We tested a ball (with linear elastic constitutive law) falling in an ideal flui
 structure interaction problems by means of a high order discontinuous galerkin method
 on polygonal grids. 2018
 
-<p> <span style="color:grey"> Images shown are GIFs - with no loop. Some browser-related issues are known: please open the page with Chrome </span></p>
+<p> <span style="color:grey"> Images shown are GIFs - with no loop. 
+Some browser-related issues are known: please open the page with Chrome </span></p>

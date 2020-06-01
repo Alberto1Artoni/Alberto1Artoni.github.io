@@ -30,5 +30,6 @@ Also, on the right we solve the thermal equation: solution is linear, having low
 
 The project is a first step in more detailed investigation about the coupling between the particle world and the PDE world. This is one of the first attemps. From a practical point of view, devices like RRAM can be designed.
 
-<p> <span style="color:grey"> Images shown are GIFs - with no loop. Some browser-related issues are known: please open the page with Chrome </span></p>
+<p> <span style="color:grey"> Images shown are GIFs - with no loop. 
+Some browser-related issues are known: please open the page with Chrome </span></p>
 

@@ -36,5 +36,5 @@ Following are in italian:
 More info and some extra material at [Poviglio's church website.](http://marcosim.homepc.it:8082/coroPoviglio/?p=piccolo_coro)
 
 
-###### Last update: 25/05/2020.
 
+<p> <span style="color:grey"> Last update: 25/05/2020.</span></p>
