@@ -13,7 +13,7 @@ The code has been implemented using Mathematica and mainly the related library i
 Ising Model basics and history.
 Explain the model:
 
-|:-------------:|:-------------:|
+|:--------------------:|:--------------------:|
 |![](https://alberto1artoni.github.io/assets/pdf/Ising/IsingMag.gif)| ![](https://alberto1artoni.github.io/assets/pdf/Ising/IsingNoMag.gif)|
 | T &lt; T<sub>c</sub> | T &gt; T<sub>c</sub> |
 
@@ -22,13 +22,18 @@ The Ising model was firtly proposed for 1D lattix; it has then been extended to 
 
 ## Ising Model on fully uncorrelated networks
 
-Fully uncorrelated networks have community. We reach local "magnetization" in each comunity. Increasing the temperature we see that the stronger community are still magnetize, while the weaker show no magnetization.
+Fully uncorrelated networks have community. We reach local "magnetization" in each comunity. Increasing the temperature we see that the stronger community are no more magnetized, while the weaker show magnetization.
 
 Visual example for T=10.
-<p align="center">  <img width="600" height="200" src="https://alberto1artoni.github.io/assets/pdf/Ising/IsingUncT10.gif"> </p> 
+<p align="center">  <img width="500" height="175" src="https://alberto1artoni.github.io/assets/pdf/Ising/IsingUncT10.gif"> </p> 
 
-State after a large number of iteration, varying the temperature:
+Evolution of the dynamics:
 <p align="center"> <img width="400" heigh="500" src="https://alberto1artoni.github.io/assets/pdf/Ising/NonZeroTemp.png"> </p>
+
+From the paper we have:
+![](https://alberto1artoni.github.io/assets/pdf/Ising/Corr.png)
+
+For T=10 the results are qualitatevly the same.
 
 [1]  ̈Jorg, Valleriani and Reinhard, Sequences of phase transitions in ising models on correlated networks.
 
