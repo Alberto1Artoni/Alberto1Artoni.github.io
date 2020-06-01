@@ -10,7 +10,7 @@ My mainly interests are Finite Element Methods (FEM), fluids (CFD) and Machine L
 
 Here is a brief version my [curriculum](https://alberto1artoni.github.io/assets/pdf/Curriculum.pdf).
 
-I've decided to collect in this pages all the projects I haveve followed and all my interests.
+I've decided to collect in this pages all the projects I have followed and all my interests.
 
 
 ## College 

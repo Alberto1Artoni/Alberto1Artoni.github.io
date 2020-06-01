@@ -16,8 +16,8 @@ First, let us introduce the Ising Model.
 The Ising model can be seen as a formal system with some specific update rules. 
 
 - consider an adjacency matrix **A**.
-- consider a proper $\mathcal{H}$ (energy) functional
-- update with a probability ~ *P*(H)
+- consider a proper ***H***(**A**) (energy) functional
+- update with a probability ~ *P*(***H***)
 - loop several times
 
 |:--------------------:|:--------------------:|
@@ -25,7 +25,7 @@ The Ising model can be seen as a formal system with some specific update rules.
 | T &lt; T<sub>c</sub> | T &gt; T<sub>c</sub> |
 
 In the left we have magnetization: the lattix change all his colors. In the right, due to high temperature, we don't have magnetization.
-The Ising model was firtly proposed for 1D lattix; it has then been extended to 2D results. It is generally unclear what happens (theoretically) on different topologies. The paper aims to propose some "experimental" (simulation) results.
+The Ising model was firstly proposed for 1D lattix; it has then been extended to 2D results. It is generally unclear what happens (theoretically) on different topologies. The paper aims to propose some "experimental" (simulation) results.
 
 ## Ising Model on fully uncorrelated networks
 

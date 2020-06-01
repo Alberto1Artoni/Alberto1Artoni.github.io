@@ -19,9 +19,12 @@ navbar-links:
      - CMEB project: "projects/CMEB/"
      - Ising project: "projects/Ising"
      - SIAM: "SIAM"
+  Job Experience:
+     - Reply: "Reply"
   External: 
      - Messori's Thesis: "Messori"
      - Choir: "Coro"
+     - College: "College"
   
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
