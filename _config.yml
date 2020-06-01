@@ -17,6 +17,7 @@ navbar-links:
      - PolyDG thesis: "projects/Thesis/"
      - APSC project: "projects/APSC/"
      - CMEB project: "projects/CMEB/"
+     - Ising project: "projects/Ising"
      - SIAM: "SIAM"
   External: 
      - Messori's Thesis: "Messori"

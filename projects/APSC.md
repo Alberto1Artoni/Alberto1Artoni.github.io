@@ -43,3 +43,4 @@ structure interaction problems by means of a high order discontinuous galerkin m
 on polygonal grids. 2018
 
 ###### Images shown are GIFs - with no loop. Some browser-related issues are known: please open the page with Chrome.
+<p>Some Markdown text with <span style="color:grey">some <em>blue</em> text</span>.</p>
