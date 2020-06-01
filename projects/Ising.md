@@ -28,7 +28,7 @@ Visual example for T=10.
 <p align="center">  <img width="500" height="175" src="https://alberto1artoni.github.io/assets/pdf/Ising/IsingUncT10.gif"> </p> 
 
 Evolution of the dynamics:
-<p align="center"> <img width="400" heigh="500" src="https://alberto1artoni.github.io/assets/pdf/Ising/NonZeroTemp.png"> </p>
+<p align="center"> <img width="400" height="500" src="https://alberto1artoni.github.io/assets/pdf/Ising/NonZeroTemp.png"> </p>
 
 From the paper we have:
 ![](https://alberto1artoni.github.io/assets/pdf/Ising/Corr.png)
