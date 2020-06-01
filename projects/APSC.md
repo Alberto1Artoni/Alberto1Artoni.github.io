@@ -7,10 +7,13 @@ format: page
 
 The course introduces to the scientific C++ standards. The final examination consists in a project carried out with the Math department professors.
 
-Me and Elisabetta Chimisso carried out a project on fluid structure iteration (FSI) with contact. The main tasks were to add a second structure in an already well structured code and to take into account the contact. Contact was enforced with a penalization technique.
+Me and [Elisabetta Chimisso](https://www.linkedin.com/in/elisabetta-chimisso/) carried out a project on fluid structure iteration (FSI) with contact. The main tasks were to add a second structure in an already well structured code and to take into account the contact. Contact was enforced with a penalization technique.
 For me this project have been crucial in the years of the master degree: finally I've applied all my studies to something quite practical. I think this is the project I've enjoyed the most.
 
 For the project we have made a [final report](https://alberto1artoni.github.io/assets/pdf/FSI/ArtoniChimisso_ContactProblemForCardiacValveMechanics.pdf), a presentation for the [programming part](https://alberto1artoni.github.io/assets/pdf/FSI/ArtoniChimissoPACS.pdf) and a presentation for the [numerical part]().
+The code is written in C++, Matlab and uses bash scripting. Post-processing is made with Paraview.
+The project was discussed on 25/02/2019.
+
 
 ## Fluid Structure iteraction with applications to cardiac valves
 
@@ -42,5 +45,4 @@ We tested a ball (with linear elastic constitutive law) falling in an ideal flui
 structure interaction problems by means of a high order discontinuous galerkin method
 on polygonal grids. 2018
 
-###### Images shown are GIFs - with no loop. Some browser-related issues are known: please open the page with Chrome.
-<p>Some Markdown text with <span style="color:grey">some <em>blue</em> text</span>.</p>
+<p> <span style="color:grey"> Images shown are GIFs - with no loop. Some browser-related issues are known: please open the page with Chrome </span></p>

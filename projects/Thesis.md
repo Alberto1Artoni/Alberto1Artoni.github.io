@@ -7,7 +7,8 @@ Here's the project I've followed during my [Master Thesis](https://alberto1arton
 
 The thesis is quite technical: the main challages were to develop the proper data structures to make the solver able to handle the generic polyhedral mesh. 
 During the thesis I've developed interest in computational geometry (for handling the mesh) and in the Discontinuous Galerkin method (both from and implementation point of view and from an analytical point of view).
-
+In the thesis I coded with Fortran, C++. I've interfaced the library to post process with Paraview.
+The thesis has been discussed on 29/04/2020.
 
 ## PolyDG
 
@@ -47,4 +48,4 @@ Exploits a quadrature free method: for the moment it is able to deal only with p
 </p>
 
 
-##### Currently the software is private.
+<p> <span style="color:grey"> Currently the software is private. </span></p>

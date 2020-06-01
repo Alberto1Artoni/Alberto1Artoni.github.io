@@ -7,6 +7,7 @@ title: CMEB
 The course is a numerical course that features the main modelling sources of non linearities and explains how to deal with them from a numerical point of view. The main applicative areas considered are electronics and biomathematics: huge comparisons are made, and surprisingly share lot of modelling techniques.
 
 A [project](https://alberto1artoni.github.io/assets/pdf/CMEB/KMCPDEs.pdf) integrates the theoretical written exam. In this project I integrated my knowledge connected to the mechanical-statistical field with the PDE world. 
+The FEMOS library is a 3D C++ library used by [Micron Technology](https://www.micron.com/) and owned by professor Mauri.
 
 ## Coupling a PDE Problems with the Kinetic Monte-Carlo
 
@@ -29,5 +30,5 @@ Also, on the right we solve the thermal equation: solution is linear, having low
 
 The project is a first step in more detailed investigation about the coupling between the particle world and the PDE world. This is one of the first attemps. From a practical point of view, devices like RRAM can be designed.
 
+<p> <span style="color:grey"> Images shown are GIFs - with no loop. Some browser-related issues are known: please open the page with Chrome </span></p>
 
-###### Images shown are GIFs - with no loop. Some browser-related issues are known: please open the page with Chrome.
