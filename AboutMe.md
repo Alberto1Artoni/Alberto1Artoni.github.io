@@ -13,15 +13,6 @@ Here is a brief version my [curriculum](https://alberto1artoni.github.io/assets/
 I've decided to collect in this pages all the projects I have followed and all my interests.
 
 
-## College 
-I've live in Collegio Paolo VI for 6th year.
-I am involved in activities and I led some speaks:
-[Sidamo](http://nbviewer.jupyter.org/github/Alberto1Artoni/Alberto1Artoni.github.io/blob/master/SidamoTalk.pdf)
-[Cv](http://nbviewer.jupyter.org/github/Alberto1Artoni/Alberto1Artoni.github.io/blob/master/Cv_Presentazione.pdf)
-First speak was about the importance of volunteering as a path to meet the other, and the second was about curriculum writing.
-
-I think the College experience has had a great impact of my life: being in contact with very different people and with different needs made me grow.
-
 
 ## My free time
 
