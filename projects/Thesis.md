@@ -41,7 +41,7 @@ The library is able to solve the Poisson problem on polyhedral meshes.
 
 ### Fortran Library
 
-Exploits a quadrature free method: for the moment it is able to deal only with polynomial doundary data and source. More research is on going, but the preliminares are promising.
+Exploits a quadrature free method: for the moment it is able to deal only with polynomial boundary data and source. More research is on going, but the preliminares are promising.
 
 <p align="center">
 <img width="500" height="300" src="https://alberto1artoni.github.io/assets/pdf/Tesi/Immagini/XYZ.png">

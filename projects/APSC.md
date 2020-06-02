@@ -19,15 +19,14 @@ The project was discussed on 25/02/2019.
 
 The main goal of the project is to solve a contact problem involving two structures immersed
 in a fluid. We discussed the theoretical and numerical formulation of the problem, mainly following the original paper [1]. Then we describe the contact algorithm that relies on a explicit penalty method.
-The implementation conisted in two steps:
+The implementation consisted in two steps:
 - add the second structure
 - apply a contact search algorithm
-In chapter three we present the results: first without any contact, then we test the goodness
-of the contact search algorithm and finally we try to solve some problems.
+
 
 ### Two structures with no contact
 
-A linear elastic law is imposed on the structures. On the top and bottom boundary Neumann boundary conditions are taken into account. On the left and right boundary null Dirichlet conditions are imposed. Both the structures are pintched towards the center and then released.
+A linear elastic law is imposed on the structures. On the top and bottom boundary Neumann boundary conditions are taken into account. On the left and right boundary null Dirichlet conditions are imposed. Both the structures are pinched towards the center and then released.
 The images shows the evolution of the valve, without contact.
 
 ![](https://alberto1artoni.github.io/assets/pdf/FSI/gif/Valve.gif)
