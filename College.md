@@ -26,7 +26,8 @@ I broke my cruciate ligament on 16/04/2019, and since then I've stopped playing.
 I found myself as a senior member of the college community, and I've decided to start teaching something to the other students.
 Here are a talk and a lab I've led:
 
--I've been a volunteer for [Sidamo](http://nbviewer.jupyter.org/github/Alberto1Artoni/Alberto1Artoni.github.io/blob/master/SidamoTalk.pdf): here I detailed my experience and the importance of volunteering.
--I've decided to share my experience in [Cv and Cl writing](http://nbviewer.jupyter.org/github/Alberto1Artoni/Alberto1Artoni.github.io/blob/master/Cv_Presentazione.pdf), introducing Latex as a possible editor instrument.
+-I've been a volunteer for [Sidamo](https://alberto1artoni.github.io/assets/pdf/SidamoTalk.pdf): here I detailed my experience and the importance of volunteering.
+
+-I've decided to share my experience in [Cv and Cl writing](https://alberto1artoni.github.io/assets/pdf/Cv_Presentazione.pdf), introducing Latex as a possible editor instrument.
 
 
