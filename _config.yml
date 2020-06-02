@@ -23,7 +23,7 @@ navbar-links:
      - Reply: "Reply"
   External: 
      - Messori's Thesis: "Messori"
-     - Choir: "Coro"
+     - Choir: "http://marcosim.homepc.it:8082/coroPoviglio/?p=piccolo_coro"
      - College: "College"
   
   #Resources:
