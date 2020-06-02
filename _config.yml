@@ -24,7 +24,7 @@ navbar-links:
   External: 
      - Messori's Thesis: "Messori"
      - Choir: "http://marcosim.homepc.it:8082/coroPoviglio/?p=piccolo_coro"
-     - College: "College"
+     - College: "http://www.collegiopaolosesto.it/"
   
   #Resources:
   #  - Beautiful Jekyll: "https://beautifuljekyll.com"
